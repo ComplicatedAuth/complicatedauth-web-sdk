@@ -1,6 +1,6 @@
 # `@complicatedauth/browser`
 
-Framework-neutral browser client for a customer-owned ComplicatedAuth BFF. Project API keys never enter the browser.
+Framework-neutral browser client for a customer-owned ComplicatedAuth BFF. Project service credentials never enter the browser.
 
 ```ts
 import {ComplicatedAuthClient} from "@complicatedauth/browser";
